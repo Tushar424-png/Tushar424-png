@@ -62,13 +62,6 @@ I am a passionate **Backend / Software Developer** with strong fundamentals in *
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar424-png"/>
-</p>
-
-
 ---
 
 ## 📫 Connect With Me
