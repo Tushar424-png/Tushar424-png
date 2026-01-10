@@ -70,5 +70,3 @@ I am a passionate **Software / Backend Developer** specialized in building scala
 </p>
 
 ⭐️ *Professional README created for [Tushar424-png](https://github.com/Tushar424-png)*
-
-⭐️ *Professional README created for [Tushar424-png](https://github.com/Tushar424-png)*
