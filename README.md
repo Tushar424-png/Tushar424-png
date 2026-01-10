@@ -57,11 +57,18 @@ I am a passionate **Software / Backend Developer** specialized in building scala
 </p>
 
 ---
+---
 
 ### 📫 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/tushar-handa-9b5149356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tushar Handa" height="30" width="40" /></a>
-<a href="mailto:tusharhanda31@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="tusharhanda31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tushar-handa-9b5149356" target="blank">
+<img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar Handa" />
+</a>
+<a href="mailto:tusharhanda31@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tusharhanda31" />
+</a>
 </p>
+
+⭐️ *Professional README created for [Tushar424-png](https://github.com/Tushar424-png)*
 
 ⭐️ *Professional README created for [Tushar424-png](https://github.com/Tushar424-png)*
