@@ -20,7 +20,7 @@ I enjoy building backend systems, solving problems, and writing clean, maintaina
 ## 🛠️ Technical Skills  
 
 ### 👨‍💻 Programming Languages  
-- Java, Python, C, C++
+- Java, Python, C, C++,JavaScript,PHP
 
 ### ⚙️ Backend & APIs  
 - Spring Boot  
