@@ -47,14 +47,16 @@ I am a passionate **Backend / Software Developer** with strong fundamentals in *
 
 ## 🚀 Featured Projects
 
-### 📘 Library Management System
-- Java, Spring Boot, MySQL
-- JWT Authentication & RBAC
-- RESTful APIs
+### 🛒 OmniShop – Scalable Microservices E-Commerce System
+- Built using Java & Spring Boot microservices architecture
+- Centralized API Gateway with JWT authentication & rate limiting
+- Service discovery using Eureka
+- Inventory-driven order creation with stock validation
+- Redis caching for products, users & order status
+- Circuit breaker & fallback handling for service failures
 
-🔗 https://github.com/Tushar424-png/library-management-system-springboot
+🔗 https://github.com/Tushar424-png/OmniShop-Backend
 
----
 
 ## 🏆 Achievements
 - Solved **110+ LeetCode problems**
