@@ -1,78 +1,60 @@
-# 👋 Hi, I'm Tushar Handa
+# 👋 Hi, I'm Tushar Handa 💻
+### Software Developer |  Node js |Express Js|Spring Boot | Microservices | Full-Stack Explorer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Tushar424-png&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-🚀 **Java Backend Developer | Spring Boot | Microservices | Redis | JWT**  
-🎓 **BCA Student** | 💼 **Immediate Joiner** | 🌱 **Fresher**
+[cite_start]I am a results-driven **Software Developer** currently in my final year of **BCA**[cite: 27]. I specialize in building scalable, secure, and high-performance backend systems using **Java, Spring Boot, and Microservices architecture**. With a strong foundation in **Data Structures & Algorithms** and a passion for **AI integration**, I build applications that solve real-world problems.
 
 ---
 
-## 💡 About Me
-
-I am a passionate **Backend / Software Developer** with strong fundamentals in **Java and Spring Boot**, focused on building **scalable, secure, and high-performance backend systems**.
-
-- 🔭 Actively building **Spring Boot Microservices**
-- 🔐 Strong hands-on experience with **JWT Authentication**
-- ⚡ Implemented **Redis caching** for performance optimization
-- ☁️ Worked with **Firebase**
-- 🧠 Solved **110+ problems on LeetCode**
-- 🚀 **Immediate Joiner**
+### 🌟 Why Me?
+* 🏎️ **Performance Focused:** Expertise in **Redis Caching** and **Rate Limiting**.
+* 🛡️ **Security First:** Hands-on with **JWT**, **Role-Based Access Control (RBAC)**, and **Spring Security**.
+* 🤖 **AI Driven:** Experienced in integrating **LLMs (Groq, Gemini)** and **Vector Stores (Supabase)**.
+* [cite_start]⚡ **Immediate Joiner:** Ready to contribute to production-grade codebases right away[cite: 7].
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Toolbox
 
-### Backend & Architecture
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF5722?style=for-the-badge)
-
-### Security & Caching
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Databases & Services
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Category | Skills |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Spring Security, Microservices, Node.js, Express.js |
+| **Frontend** | [cite_start]React.js, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3 [cite: 15] |
+| **Databases** | [cite_start]MySQL, PostgreSQL (Supabase), Redis (Caching), Firebase [cite: 12] |
+| **Tools & DevOps** | [cite_start]Git, Maven, Postman, Docker (Learning), Eureka, API Gateway [cite: 14] |
+| **Core CS** | [cite_start]Data Structures (DSA), Algorithms, OOPs, SDLC [cite: 13] |
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Project: OmniShop 🛒
+**AI-Powered Full-Stack E-Commerce Platform**
+* **Architecture:** Shifted from Microservices to a highly optimized Monolith for performance, featuring **Circuit Breakers (Resilience4j)**.
+* **AI Integration:** Smart AI Chatbot using **Groq API** & **Jina AI** for semantic product search and stock queries.
+* **Security:** JWT-based authentication with **Redis Bucket Algorithm** for Rate Limiting.
+* **Payments:** Seamless **Razorpay** integration (Test Mode).
+* **Tech:** Spring Boot, React, Tailwind CSS, Supabase, Firebase Notifications.
 
-### 🛒 OmniShop – Scalable Microservices E-Commerce System
-- Built using Java & Spring Boot microservices architecture
-- Centralized API Gateway with JWT authentication & rate limiting
-- Service discovery using Eureka
-- Inventory-driven order creation with stock validation
-- Redis caching for products, users & order status
-- Circuit breaker & fallback handling for service failures
-
-🔗 https://github.com/Tushar424-png/OmniShop-Backend
-
-
-## 🏆 Achievements
-- Solved **110+ LeetCode problems**
-- 🥇 First Prize – Inter College Coding Competition
+🔗 [Frontend Live](https://omnishop-frontend.netlify.app/) | 🔗 [Backend API](https://omnishop-backend-1.onrender.com) | 📂 [Source Code](https://github.com/Tushar424-png/omnishop-fullstack)
 
 ---
 
+### 🏆 Achievements & Coding Profile
+* [cite_start]🥇 **1st Prize** – Inter-College Coding Competition[cite: 33].
+* [cite_start]🧩 **110+ Problems Solved** on LeetCode (Focus: Arrays, HashMaps, Strings)[cite: 32].
+* [cite_start]📜 **Certified Java Backend Developer** by GeeksforGeeks[cite: 24].
+* [cite_start]📜 **Django Web Development** Certified by Techhad Institute[cite: 25].
+
 ---
 
-## 📫 Connect With Me
+### 📊 GitHub Stats & Activity
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar424-png&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar424-png&layout=compact&theme=radical)
 
-<p align="left">
-  <a href="https://linkedin.com/in/tushar-handa-9b5149356">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:tusharhanda31@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+---
+
+### 📫 Let's Connect!
+* [cite_start]💼 **LinkedIn:** [tushar-handa-9b5149356](https://linkedin.com/in/tushar-handa-9b5149356) [cite: 3]
+* [cite_start]📧 **Email:** [tusharhanda31@gmail.com](mailto:tusharhanda31@gmail.com) [cite: 2]
+* [cite_start]📞 **Mobile:** +91 96461 47245 [cite: 2]
+
+---
+*“Building the backends of tomorrow, one microservice at a time.”*
