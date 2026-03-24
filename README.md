@@ -33,7 +33,7 @@
 * **Payments:** Seamless **Razorpay** integration (Test Mode).
 * **Tech:** Spring Boot, React, Tailwind CSS, Supabase, Firebase Notifications.
 
-🔗 [Frontend Live](https://omnishop-frontend.netlify.app/) | 🔗 [Backend API](https://omnishop-backend-1.onrender.com) | 📂 [Source Code](https://github.com/Tushar424-png/omnishop-fullstack)
+🔗 [Live](https://omnishop-frontend.netlify.app/) | 📂 [Source Code](https://github.com/Tushar424-png/omnishop-fullstack)
 
 ---
 
